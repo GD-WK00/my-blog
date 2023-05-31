@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "lorem ipsum...",
+      "author": "Rysiu",
+      "id": 1
+    },
+    {
+      "title": "Hello everyone",
+      "body": "lorem ipsum...",
+      "author": "Zbysiu",
+      "id": 2
+    },
+    {
+      "title": "Hello!",
+      "body": "Hi everyone, this is first user-created blog! Hope it will work ^^",
+      "author": "Zbysiu",
+      "id": 3
+    }
+  ]
+}
